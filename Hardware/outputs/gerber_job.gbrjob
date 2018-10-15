@@ -1,0 +1,11 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-07-03T17:36:12Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,M F <matthew.foreman@wsu.edu>*%
+%TJ.B_ID,solar_switch*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.671119*%
+M02*
