@@ -16,3 +16,10 @@ The most current iteration is seen here:
 
 Our first Arduino prototype board is seen here:
 ![Prototype 2](Photos/proto_2.jpg?raw=true "Prototype 2")
+
+Board Layout:
+![Layout](Photos/board.jpg?raw=true "Layout")
+
+Our first Arduino prototype board is seen here:
+![Schematic](Photos/schematic.jpg?raw=true "Schematic")
+
