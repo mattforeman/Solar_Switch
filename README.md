@@ -18,8 +18,8 @@ Our first Arduino prototype board is seen here:
 ![Prototype 2](Photos/proto_2.jpg?raw=true "Prototype 2")
 
 Board Layout:
-![Layout](Photos/board.jpg?raw=true "Layout")
+![Layout](Photos/board.png?raw=true "Layout")
 
 Our first Arduino prototype board is seen here:
-![Schematic](Photos/schematic.jpg?raw=true "Schematic")
+![Schematic](Photos/schematic.png?raw=true "Schematic")
 
